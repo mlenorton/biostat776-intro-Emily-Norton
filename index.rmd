@@ -30,6 +30,6 @@ As researchers, we have a *lot* of health data available, and more is being coll
 
 #### Learning Goals
 
-I would like to beef up my statistical coding and visualization in R, as well as improve my organization skills, including documentation in rmarkdown and version control in github, to make my research more reproducible. 
+I would like to beef up my statistical coding and visualization in R, as well as improve my organization skills, including documentation in rmarkdown and version control in git, to make my research more reproducible. 
 <br>
 <br>
